@@ -10,6 +10,6 @@ Sarah Otero del val
 
 Arthur Naudy
 
-L'objectif est de réaliser une interface web permettant de donner des informations sur les pays d'Europe.
+L'objectif est de réaliser une interface web permettant de donner des informations sur les pays d'Europe à l'aide d'une carte dynamique.
 
 
